@@ -6,6 +6,7 @@ build {
     gitBranch = 'master',
     buildLanguage = '',
     buildImage = '',
-    dockerName = 'joshchu00/go-build-kafka:1.11.5-alpine'
+    dockerName = 'joshchu00/go-build-kafka:1.11.5-alpine',
+    downstreamJob = ''
   ]
 }
