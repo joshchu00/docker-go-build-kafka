@@ -1,6 +1,6 @@
 @Library("library") _
 
-build {
+jBuild {
   [
     gitURL = 'https://github.com/joshchu00/docker-go-build-kafka.git',
     gitBranch = 'master',
